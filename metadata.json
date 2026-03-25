@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Audio to Text Batch Processor",
+  "description": "Batch convert MP3 audio files to logically formatted text documents using Gemini.",
+  "requestFramePermissions": []
+}
